@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "63ac9d80f1e2d0ba62321f26"
+  },
+  "objName": "drone1",
+  "description": "Test ",
+  "objectType": "Drone",
+  "area": {
+    "$oid": "63bbc76de9115228291cea9d"
+  },
+  "address": "Israel",
+  "time": "",
+  "coordinates": {
+    "lat": 31.952623,
+    "lng": 34.939693
+  },
+  "geoLocation": {
+    "coordinates": [
+      34.939693,
+      31.952623
+    ],
+    "type": "Point"
+  },
+  "createdBy": "",
+  "createdByName": "Meni",
+  "connectionDetail": "drone1",
+  "radius": 8,
+  "isTemporary": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672256896051"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673250823399"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3ee33e9115228291cdffe"
+  },
+  "objName": "camera2",
+  "description": "Camera 2",
+  "objectType": "Camera",
+  "area": {
+    "$oid": "63bbc76de9115228291cea9d"
+  },
+  "address": "Unnamed Road, Israel",
+  "time": "",
+  "coordinates": {
+    "lat": 31.933521,
+    "lng": 34.932306
+  },
+  "geoLocation": {
+    "coordinates": [
+      34.932306,
+      31.933521
+    ],
+    "type": "Point"
+  },
+  "createdBy": "",
+  "createdByName": "Camera 2",
+  "connectionDetail": "camera2",
+  "radius": 5,
+  "isTemporary": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672736307076"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673250774846"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bbce78e9115228291cf0f2"
+  },
+  "objName": "drone2",
+  "description": "test",
+  "objectType": "Drone",
+  "area": {
+    "$oid": "63bbc76de9115228291cea9d"
+  },
+  "address": "Gimzo, Israel",
+  "time": "",
+  "coordinates": {
+    "lat": 31.927217,
+    "lng": 34.941128
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      34.941128,
+      31.927217
+    ]
+  },
+  "createdBy": "",
+  "createdByName": "meni",
+  "connectionDetail": "drone2",
+  "radius": 3,
+  "isTemporary": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673252472772"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673252472772"
+    }
+  },
+  "__v": 0
+}]

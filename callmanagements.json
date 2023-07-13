@@ -1,0 +1,1222 @@
+[{
+  "_id": {
+    "$oid": "6332963e19dd2858fabc62f6"
+  },
+  "addressData": {
+    "line1": "תל אביב, ישראל",
+    "city": "תל אביב",
+    "province": "מחוז תל אביב",
+    "geo": {
+      "coordinates": [
+        32.0852999,
+        34.78176759999999
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 32.0852999,
+    "lng": 34.78176759999999
+  },
+  "name": "dgzdfg",
+  "description": "",
+  "isOpenCall": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664259646789"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0,
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      34.78176759999999,
+      32.0852999
+    ]
+  },
+  "radius": 7,
+  "objects": []
+},{
+  "_id": {
+    "$oid": "6369093d8bbfa4485bbac48c"
+  },
+  "addressData": {
+    "line1": "Israel",
+    "geo": {
+      "coordinates": [
+        31.938034,
+        34.99374
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 31.938034,
+    "lng": 34.99374
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      34.99374,
+      31.938034
+    ]
+  },
+  "name": "ממי",
+  "description": "",
+  "isOpenCall": true,
+  "radius": 7,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667828029698"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0,
+  "objects": []
+},{
+  "_id": {
+    "$oid": "63695d9a8bbfa4485bbac5f8"
+  },
+  "addressData": {
+    "line1": "ישראל",
+    "geo": {
+      "coordinates": [
+        31.938034,
+        34.99374
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 31.938034,
+    "lng": 34.99374
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      34.99374,
+      31.938034
+    ]
+  },
+  "name": "התקבלעך",
+  "description": "",
+  "isOpenCall": true,
+  "radius": 7,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667849626809"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0,
+  "objects": []
+},{
+  "_id": {
+    "$oid": "63696d2cf0cd52aefb21e7b4"
+  },
+  "addressData": {
+    "line1": "מודיעין מכבים רעות, ישראל",
+    "city": "מודיעין מכבים רעות",
+    "province": "מחוז המרכז",
+    "geo": {
+      "coordinates": [
+        31.890267,
+        35.010397
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 31.890267,
+    "lng": 35.010397
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      35.010397,
+      31.890267
+    ]
+  },
+  "name": "גדכ",
+  "description": "",
+  "isOpenCall": false,
+  "radius": 7,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667853612398"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0,
+  "objects": []
+},{
+  "_id": {
+    "$oid": "63696e13f0cd52aefb21e7ca"
+  },
+  "addressData": {
+    "line1": "Rishon LeTsiyon, Israel",
+    "city": "Rishon LeTsiyon",
+    "province": "Center District",
+    "geo": {
+      "coordinates": [
+        31.9730015,
+        34.7925013
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 31.9730015,
+    "lng": 34.7925013
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      34.7925013,
+      31.9730015
+    ]
+  },
+  "name": "Fire",
+  "description": "",
+  "isOpenCall": false,
+  "radius": 7,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667853843712"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0,
+  "objects": []
+},{
+  "_id": {
+    "$oid": "636abb89f0cd52aefb21ee40"
+  },
+  "addressData": {
+    "line1": "Modi'in-Maccabim-Re'ut, Israel",
+    "city": "Modi'in-Maccabim-Re'ut",
+    "province": "Center District",
+    "geo": {
+      "coordinates": [
+        31.890267,
+        35.010397
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 31.890267,
+    "lng": 35.010397
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      35.010397,
+      31.890267
+    ]
+  },
+  "name": "Fire",
+  "description": "",
+  "isOpenCall": true,
+  "radius": 7,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667939209835"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0,
+  "objects": []
+},{
+  "_id": {
+    "$oid": "63983adf611e5a4e9a48f102"
+  },
+  "addressData": {
+    "line1": "Ahmedabad, Gujarat, India",
+    "city": "Ahmedabad",
+    "province": "Gujarat",
+    "geo": {
+      "coordinates": [
+        23.022505,
+        72.5713621
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 23.022505,
+    "lng": 72.5713621
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      72.5713621,
+      23.022505
+    ]
+  },
+  "name": "Party",
+  "description": "No Description",
+  "isOpenCall": true,
+  "radius": 7,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670920927613"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63983d14611e5a4e9a48f189"
+  },
+  "addressData": {
+    "line1": "Ahmedabad, Gujarat, India",
+    "city": "Ahmedabad",
+    "province": "Gujarat",
+    "geo": {
+      "coordinates": [
+        23.022505,
+        72.5713621
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 23.022505,
+    "lng": 72.5713621
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      72.5713621,
+      23.022505
+    ]
+  },
+  "name": "sddsds",
+  "description": "dsdsd",
+  "isOpenCall": true,
+  "radius": 7,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670921492463"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63984033611e5a4e9a48f21b"
+  },
+  "addressData": {
+    "line1": "Ahmedabad, Gujarat, India",
+    "city": "Ahmedabad",
+    "province": "Gujarat",
+    "geo": {
+      "coordinates": [
+        23.022505,
+        72.5713621
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 23.022505,
+    "lng": 72.5713621
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      72.5713621,
+      23.022505
+    ]
+  },
+  "name": "Test1",
+  "description": "",
+  "isOpenCall": false,
+  "radius": 1,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670922291227"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63984125611e5a4e9a48f240"
+  },
+  "addressData": {
+    "line1": "Hansol, Ahmedabad, Gujarat 380003, India",
+    "city": "Ahmedabad",
+    "province": "Gujarat",
+    "postalCode": "380003",
+    "geo": {
+      "coordinates": [
+        23.0734262,
+        72.626571
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 23.0734262,
+    "lng": 72.626571
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      72.626571,
+      23.0734262
+    ]
+  },
+  "name": "Party",
+  "description": "Event",
+  "isOpenCall": true,
+  "radius": 7,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670922533150"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6398697d418468df5d978b87"
+  },
+  "addressData": {
+    "line1": "Narol Cir, Narolgam, Ahmedabad, Gujarat 380043, India",
+    "city": "Ahmedabad",
+    "province": "Gujarat",
+    "postalCode": "380043",
+    "geo": {
+      "coordinates": [
+        22.973201,
+        72.5881344
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 22.973201,
+    "lng": 72.5881344
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      72.5881344,
+      22.973201
+    ]
+  },
+  "name": "Party",
+  "description": "Event Description",
+  "isOpenCall": true,
+  "radius": 8,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670932861795"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63986be3418468df5d978c3b"
+  },
+  "addressData": {
+    "line1": "Paris, France",
+    "city": "Paris",
+    "province": "Île-de-France",
+    "geo": {
+      "coordinates": [
+        48.856614,
+        2.3522219
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 48.856614,
+    "lng": 2.3522219
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      2.3522219,
+      48.856614
+    ]
+  },
+  "name": "Party",
+  "description": "D",
+  "isOpenCall": true,
+  "radius": 8,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670933475103"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63986c47418468df5d978c53"
+  },
+  "addressData": {
+    "line1": "Narolgam, Ahmedabad, Gujarat, India",
+    "city": "Ahmedabad",
+    "province": "Gujarat",
+    "geo": {
+      "coordinates": [
+        22.9641614,
+        72.5903337
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 22.9641614,
+    "lng": 72.5903337
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      72.5903337,
+      22.9641614
+    ]
+  },
+  "name": "party1",
+  "description": "party1",
+  "isOpenCall": true,
+  "radius": 8,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670933575121"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6399916af9a136ad29495a94"
+  },
+  "addressData": {
+    "line1": "Bareja, Gujarat 382425, India",
+    "city": "Bareja",
+    "province": "Gujarat",
+    "postalCode": "382425",
+    "geo": {
+      "coordinates": [
+        22.8546173,
+        72.59179519999999
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 22.8546173,
+    "lng": 72.59179519999999
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      72.59179519999999,
+      22.8546173
+    ]
+  },
+  "name": "Marriage",
+  "description": "",
+  "isOpenCall": true,
+  "radius": 8,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671008620543"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63999171f9a136ad29495a96"
+  },
+  "addressData": {
+    "line1": "Bareja, Gujarat 382425, India",
+    "city": "Bareja",
+    "province": "Gujarat",
+    "postalCode": "382425",
+    "geo": {
+      "coordinates": [
+        22.8546173,
+        72.59179519999999
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 22.8546173,
+    "lng": 72.59179519999999
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      72.59179519999999,
+      22.8546173
+    ]
+  },
+  "name": "Marriage",
+  "description": "",
+  "isOpenCall": true,
+  "radius": 8,
+  "objects": [
+    {
+      "$oid": "63ac9d80f1e2d0ba62321f26"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671008625660"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63999172f9a136ad29495a98"
+  },
+  "addressData": {
+    "line1": "Bareja, Gujarat 382425, India",
+    "city": "Bareja",
+    "province": "Gujarat",
+    "postalCode": "382425",
+    "geo": {
+      "coordinates": [
+        22.8546173,
+        72.59179519999999
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 22.8546173,
+    "lng": 72.59179519999999
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      72.59179519999999,
+      22.8546173
+    ]
+  },
+  "name": "Marriage",
+  "description": "",
+  "isOpenCall": true,
+  "radius": 8,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671008627010"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639994ddf9a136ad29495bc3"
+  },
+  "addressData": {
+    "line1": "6R3Q+VWM, Railway Station Cir, Sufi Baug, Railway Station Area, Varachha, Surat, Gujarat 395003, India",
+    "city": "Surat",
+    "province": "Gujarat",
+    "postalCode": "395003",
+    "geo": {
+      "coordinates": [
+        21.2047232,
+        72.8397967
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 21.2047232,
+    "lng": 72.8397967
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      72.8397967,
+      21.2047232
+    ]
+  },
+  "name": "Test New Call",
+  "description": "sadasdasd",
+  "isOpenCall": true,
+  "radius": 8,
+  "objects": [
+    {
+      "$oid": "63b3ee33e9115228291cdffe"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671009501829"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673264163397"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63999bbaf9a136ad29495dc9"
+  },
+  "addressData": {
+    "line1": "Nikol, Ahmedabad, Gujarat 380038, India",
+    "city": "Ahmedabad",
+    "province": "Gujarat",
+    "postalCode": "380038",
+    "geo": {
+      "coordinates": [
+        23.0499889,
+        72.6699673
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 23.0499889,
+    "lng": 72.6699673
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      72.6699673,
+      23.0499889
+    ]
+  },
+  "name": "party11",
+  "description": "PARTY11",
+  "isOpenCall": false,
+  "radius": 10,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671011258998"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63999d39f9a136ad29495e33"
+  },
+  "addressData": {
+    "line1": "Ahmedabad, Gujarat, India",
+    "city": "Ahmedabad",
+    "province": "Gujarat",
+    "geo": {
+      "coordinates": [
+        23.022505,
+        72.5713621
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 23.022505,
+    "lng": 72.5713621
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      72.5713621,
+      23.022505
+    ]
+  },
+  "name": "Party",
+  "description": "D",
+  "isOpenCall": false,
+  "radius": 8,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671011642149"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63999d70f9a136ad29495e3f"
+  },
+  "addressData": {
+    "line1": "Ahmednagar, Maharashtra, India",
+    "city": "Ahmednagar",
+    "province": "Maharashtra",
+    "geo": {
+      "coordinates": [
+        19.0948287,
+        74.74797889999999
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 19.0948287,
+    "lng": 74.74797889999999
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      74.74797889999999,
+      19.0948287
+    ]
+  },
+  "name": "Party",
+  "description": "",
+  "isOpenCall": false,
+  "radius": 8,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671011696546"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63999ddcf9a136ad29495e76"
+  },
+  "addressData": {
+    "line1": "Nikol, Ahmedabad, Gujarat 380038, India",
+    "city": "Ahmedabad",
+    "province": "Gujarat",
+    "postalCode": "380038",
+    "geo": {
+      "coordinates": [
+        23.0499889,
+        72.6699673
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 23.0499889,
+    "lng": 72.6699673
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      72.6699673,
+      23.0499889
+    ]
+  },
+  "name": "party11",
+  "description": "",
+  "isOpenCall": false,
+  "radius": 8,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671011804145"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a3710f9a136ad2949618a"
+  },
+  "addressData": {
+    "line1": "Modi'in, Modi'in-Maccabim-Re'ut, Israel",
+    "city": "Modi'in-Maccabim-Re'ut",
+    "province": "Center District",
+    "geo": {
+      "coordinates": [
+        31.90912,
+        35.002462
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 31.90912,
+    "lng": 35.002462
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      35.002462,
+      31.90912
+    ]
+  },
+  "name": "test",
+  "description": "twew",
+  "isOpenCall": false,
+  "radius": 8,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671051024614"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a37abf9a136ad2949619b"
+  },
+  "addressData": {
+    "line1": "Shilat, Israel",
+    "city": "Shilat",
+    "province": "Center District",
+    "geo": {
+      "coordinates": [
+        31.921173,
+        35.014572
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 31.921173,
+    "lng": 35.014572
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      35.014572,
+      31.921173
+    ]
+  },
+  "name": "טמ",
+  "description": "",
+  "isOpenCall": false,
+  "radius": 8,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671051179630"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a38e0f9a136ad29496227"
+  },
+  "addressData": {
+    "line1": "Re'ut St, Hod Hasharon, Israel",
+    "city": "Hod Hasharon",
+    "province": "Center District",
+    "geo": {
+      "coordinates": [
+        32.159252,
+        34.900028
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 32.159252,
+    "lng": 34.900028
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      34.900028,
+      32.159252
+    ]
+  },
+  "name": "סזבס",
+  "description": "סהז",
+  "isOpenCall": false,
+  "radius": 3,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671051488750"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aca0bff1e2d0ba62321fcb"
+  },
+  "addressData": {
+    "line1": "Modi'in-Maccabim-Re'ut, Israel",
+    "city": "Modi'in-Maccabim-Re'ut",
+    "province": "Center District",
+    "geo": {
+      "coordinates": [
+        31.890267,
+        35.010397
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 31.890267,
+    "lng": 35.010397
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      35.010397,
+      31.890267
+    ]
+  },
+  "name": "Djjd",
+  "description": "Djjd",
+  "isOpenCall": false,
+  "radius": 8,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672257727607"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea114e9115228291ccfe8"
+  },
+  "addressData": {
+    "line1": "6R3Q+VWM, Railway Station Cir, Sufi Baug, Railway Station Area, Varachha, Surat, Gujarat 395003, India",
+    "city": "Surat",
+    "province": "Gujarat",
+    "postalCode": "395003",
+    "geo": {
+      "coordinates": [
+        21.2047232,
+        72.8397967
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 21.2047232,
+    "lng": 72.8397967
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      72.8397967,
+      21.2047232
+    ]
+  },
+  "name": "Surat",
+  "description": "Surat",
+  "isOpenCall": false,
+  "radius": 8,
+  "objects": [
+    {
+      "$oid": "63b3ee33e9115228291cdffe"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672388884071"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bbc874e9115228291ceb61"
+  },
+  "addressData": {
+    "line1": "Kfar Daniel, Israel",
+    "city": "Kfar Daniel",
+    "province": "Center District",
+    "geo": {
+      "coordinates": [
+        31.933521,
+        34.932306
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 31.933521,
+    "lng": 34.932306
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      34.932306,
+      31.933521
+    ]
+  },
+  "name": "בדיקה",
+  "description": "בדיקה ",
+  "isOpenCall": false,
+  "radius": 8,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673250932717"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673260447532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bbedf8e9115228291cf6ae"
+  },
+  "addressData": {
+    "line1": "Kfar Daniel, Israel",
+    "city": "Kfar Daniel",
+    "province": "Center District",
+    "geo": {
+      "coordinates": [
+        31.9329751,
+        34.9320073
+      ]
+    }
+  },
+  "callLocationType": "location",
+  "coordinates": {
+    "lat": 31.9329751,
+    "lng": 34.9320073
+  },
+  "geoLocation": {
+    "type": "Point",
+    "coordinates": [
+      34.9320073,
+      31.9329751
+    ]
+  },
+  "name": "קריאה ",
+  "description": "",
+  "isOpenCall": false,
+  "radius": 8,
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673260536290"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673264163806"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "635046c9ed7fc58ea5d78f07"
+  },
+  "areaName": "modiin",
+  "objects": [
+    {
+      "$oid": "63adee3bf1e2d0ba6232201b"
+    },
+    {
+      "$oid": "63aeba0ae9115228291cd08e"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666205385156"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673250823194"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63519741ed7fc58ea5d79025"
+  },
+  "areaName": "Ben shemen",
+  "objects": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666291521172"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673250774636"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639ac21bf9a136ad29496840"
+  },
+  "areaName": "Lekavada na Patiya",
+  "objects": [
+    {
+      "$oid": "63ae82c9d139c02cbeb44676"
+    },
+    {
+      "$oid": "63ae9c8c8bde23620a3c870b"
+    },
+    {
+      "$oid": "63aea132e9115228291cd005"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671086619602"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672388914658"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bbc76de9115228291cea9d"
+  },
+  "areaName": "יער בן שמן",
+  "objects": [
+    {
+      "$oid": "63b3ee33e9115228291cdffe"
+    },
+    {
+      "$oid": "63ac9d80f1e2d0ba62321f26"
+    },
+    {
+      "$oid": "63bbce78e9115228291cf0f2"
+    },
+    {
+      "$oid": "63bbed56e9115228291cf641"
+    },
+    {
+      "$oid": "63bbfbd2e9115228291cf7e3"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673250669200"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673264082421"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "63650e8b0f0f531a6e7d54f9"
+  },
+  "radius": 8,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670998825454"
+    }
+  }
+}]
