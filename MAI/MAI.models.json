@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "65292d53a1aa47229ae6d0d2"
+  },
+  "name": "detect",
+  "description": "dtect object from live stream",
+  "key": "detect",
+  "icon": "icon-peson_count",
+  "detailRequired": false,
+  "isDeleted": false,
+  "isActive": true,
+  "isDefault": true
+}]

@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "656898fcea8feba7d6c11632"
+  },
+  "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+  "missionId": {
+    "$oid": "65689c3f373380664c6acba1"
+  },
+  "cameraId": {
+    "$oid": "65689c48373380664c6acbaf"
+  },
+  "isDeleted": false,
+  "isActive": true,
+  "createdBy": {
+    "$oid": "656040d59589c04a04fb4c3e"
+  }
+}]
