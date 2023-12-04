@@ -1,0 +1,1896 @@
+[{
+  "_id": {
+    "$oid": "65292e6aa1aa47229ae6d0d4"
+  },
+  "name": "person detection",
+  "description": "Detect person in your video",
+  "key": 0,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "65292e6aa1aa47229ae6d0d5"
+  },
+  "name": "bicycle detection",
+  "description": "Detect bicycle in your video",
+  "key": 1,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f7f4c082cf4c9cb4f957c"
+  },
+  "name": "car detection",
+  "description": "Detect car in your video",
+  "key": 2,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f7f57082cf4c9cb4f957e"
+  },
+  "name": "motorcycle detection",
+  "description": "Detect motorcycle in your video",
+  "key": 3,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9580"
+  },
+  "name": "airplane detection",
+  "description": "Detect airplane in your video",
+  "key": 4,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9581"
+  },
+  "name": "bus detection",
+  "description": "Detect bus in your video",
+  "key": 5,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9582"
+  },
+  "name": "train detection",
+  "description": "Detect train in your video",
+  "key": 6,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9583"
+  },
+  "name": "truck detection",
+  "description": "Detect truck in your video",
+  "key": 7,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9584"
+  },
+  "name": "boat detection",
+  "description": "Detect boat in your video",
+  "key": 8,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9585"
+  },
+  "name": "traffic detection",
+  "description": "Detect traffic in your video",
+  "key": 9,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9586"
+  },
+  "name": "fire detection",
+  "description": "Detect fire in your video",
+  "key": 10,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9587"
+  },
+  "name": "stop detection",
+  "description": "Detect stop in your video",
+  "key": 11,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9588"
+  },
+  "name": "parking detection",
+  "description": "Detect parking in your video",
+  "key": 12,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9589"
+  },
+  "name": "bench detection",
+  "description": "Detect bench in your video",
+  "key": 13,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9590"
+  },
+  "name": "bird detection",
+  "description": "Detect bird in your video",
+  "key": 14,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9591"
+  },
+  "name": "cat detection",
+  "description": "Detect cat in your video",
+  "key": 15,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9592"
+  },
+  "name": "dog detection",
+  "description": "Detect dog in your video",
+  "key": 16,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9593"
+  },
+  "name": "horse detection",
+  "description": "Detect horse in your video",
+  "key": 17,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9594"
+  },
+  "name": "sheep detection ",
+  "description": "Detect sheep in your video",
+  "key": 18,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9595"
+  },
+  "name": "cow detection",
+  "description": "Detect cow in your video",
+  "key": 19,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9596"
+  },
+  "name": "elephant detection",
+  "description": "Detect elephant in your video",
+  "key": 20,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9597"
+  },
+  "name": "bear detection",
+  "description": "Detect bear in your video",
+  "key": 21,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9598"
+  },
+  "name": "zebra detection",
+  "description": "Detect zebra in your video",
+  "key": 22,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9599"
+  },
+  "name": "giraffe detection",
+  "description": "Detect giraffe in your video",
+  "key": 23,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9600"
+  },
+  "name": "backpack detection",
+  "description": "Detect backpack in your video",
+  "key": 24,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9601"
+  },
+  "name": "umbrella detection",
+  "description": "Detect umbrella in your video",
+  "key": 25,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9602"
+  },
+  "name": "handbag detection",
+  "description": "Detect handbag in your video",
+  "key": 26,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9603"
+  },
+  "name": "tie detection",
+  "description": "Detect tie in your video",
+  "key": 27,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9604"
+  },
+  "name": "suitcase detection",
+  "description": "Detect suitcase in your video",
+  "key": 28,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9605"
+  },
+  "name": "frisbee detection",
+  "description": "Detect frisbee in your video",
+  "key": 29,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9606"
+  },
+  "name": "skis detection",
+  "description": "Detect skis in your video",
+  "key": 30,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9607"
+  },
+  "name": "snowboard detection",
+  "description": "Detect snowboard in your video",
+  "key": 31,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9608"
+  },
+  "name": "sports detection",
+  "description": "Detect sports in your video",
+  "key": 32,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9609"
+  },
+  "name": "kite detection",
+  "description": "Detect kite in your video",
+  "key": 33,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9610"
+  },
+  "name": "baseball detection",
+  "description": "Detect baseball in your video",
+  "key": 35,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9611"
+  },
+  "name": "skateboard detection",
+  "description": "Detect skateboard in your video",
+  "key": 36,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9612"
+  },
+  "name": "surfboard detection",
+  "description": "Detect surfboard in your video",
+  "key": 37,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9613"
+  },
+  "name": "tennis detection",
+  "description": "Detect tennis in your video",
+  "key": 38,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9614"
+  },
+  "name": "bottle detection",
+  "description": "Detect bottle in your video",
+  "key": 39,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9615"
+  },
+  "name": "wine detection",
+  "description": "Detect wine in your video",
+  "key": 40,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9616"
+  },
+  "name": "cup detection",
+  "description": "Detect cup in your video",
+  "key": 41,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9617"
+  },
+  "name": "fork detection",
+  "description": "Detect fork in your video",
+  "key": 42,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9618"
+  },
+  "name": "knife detection",
+  "description": "Detect knife in your video",
+  "key": 43,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9619"
+  },
+  "name": "spoon detection",
+  "description": "Detect spoon in your video",
+  "key": 44,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9620"
+  },
+  "name": "bowl detection",
+  "description": "Detect bowl in your video",
+  "key": 45,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9621"
+  },
+  "name": "banana detection",
+  "description": "Detect banana in your video",
+  "key": 46,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9622"
+  },
+  "name": "apple detection",
+  "description": "Detect apple in your video",
+  "key": 47,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9623"
+  },
+  "name": "sandwich detection",
+  "description": "Detect sandwich in your video",
+  "key": 48,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9624"
+  },
+  "name": "orange detection",
+  "description": "Detect orange in your video",
+  "key": 49,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9625"
+  },
+  "name": "broccoli detection",
+  "description": "Detect broccoli in your video",
+  "key": 50,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9626"
+  },
+  "name": "carrot detection",
+  "description": "Detect carrot in your video",
+  "key": 51,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9627"
+  },
+  "name": "hot detection",
+  "description": "Detect hot in your video",
+  "key": 52,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9628"
+  },
+  "name": "pizza detection",
+  "description": "Detect pizza in your video",
+  "key": 53,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9629"
+  },
+  "name": "donut detection",
+  "description": "Detect donut in your video",
+  "key": 54,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9630"
+  },
+  "name": "cake detection",
+  "description": "Detect cake in your video",
+  "key": 55,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9631"
+  },
+  "name": "chair detection",
+  "description": "Detect chair in your video",
+  "key": 56,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9632"
+  },
+  "name": "couch detection  ",
+  "description": "Detect couch in your video",
+  "key": 57,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9633"
+  },
+  "name": "potted detection",
+  "description": "Detect potted in your video",
+  "key": 58,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9634"
+  },
+  "name": "bed detection",
+  "description": "Detect bed in your video",
+  "key": 59,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9635"
+  },
+  "name": "dining detection",
+  "description": "Detect dining in your video",
+  "key": 60,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9636"
+  },
+  "name": "toilet detection",
+  "description": "Detect toilet in your video",
+  "key": 61,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9637"
+  },
+  "name": "tv detection",
+  "description": "Detect tv in your video",
+  "key": 62,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9638"
+  },
+  "name": "laptop detection",
+  "description": "Detect laptop in your video",
+  "key": 63,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9639"
+  },
+  "name": "mouse detection",
+  "description": "Detect mouse in your video",
+  "key": 64,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9640"
+  },
+  "name": "remote detection",
+  "description": "Detect remote in your video",
+  "key": 65,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9641"
+  },
+  "name": "keyboard detection",
+  "description": "Detect keyboard in your video",
+  "key": 66,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9642"
+  },
+  "name": "cell detection",
+  "description": "Detect cell in your video",
+  "key": 67,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9643"
+  },
+  "name": "microwave detection",
+  "description": "Detect microwave in your video",
+  "key": 68,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9644"
+  },
+  "name": "oven detection",
+  "description": "Detect oven in your video",
+  "key": 69,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9645"
+  },
+  "name": "toaster detection",
+  "description": "Detect toaster in your video",
+  "key": 70,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9646"
+  },
+  "name": "sink detection",
+  "description": "Detect sink in your video",
+  "key": 71,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9647"
+  },
+  "name": "refrigerator detection",
+  "description": "Detect refrigerator in your video",
+  "key": 72,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9648"
+  },
+  "name": "book detection",
+  "description": "Detect book in your video",
+  "key": 73,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9649"
+  },
+  "name": "clock detection",
+  "description": "Detect clock in your video",
+  "key": 74,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9650"
+  },
+  "name": "vase detection  ",
+  "description": "Detect vase in your video",
+  "key": 75,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9651"
+  },
+  "name": "scissors detection",
+  "description": "Detect scissors in your video",
+  "key": 76,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9652"
+  },
+  "name": "teddy detection",
+  "description": "Detect teddy in your video",
+  "key": 77,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9653"
+  },
+  "name": "hair detection",
+  "description": "Detect hair in your video",
+  "key": 78,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "652f8295082cf4c9cb4f9654"
+  },
+  "name": "toothbrush detection",
+  "description": "Detect toothbrush in your video",
+  "key": 79,
+  "values": [
+    {
+      "id": 1,
+      "value": "red"
+    },
+    {
+      "id": 2,
+      "value": "white"
+    },
+    {
+      "id": 3,
+      "value": "blue"
+    }
+  ],
+  "isDeleted": false,
+  "isActive": true
+}]
